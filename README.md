@@ -16,9 +16,10 @@ portfolio-website/
 ├── index.html
 ├── style.css
 ├── images/
-│  └── profile.jpg
-├── cv/
-│ └── lincolin_cv.pdf
+│  └── lin.jpg
+│  └── military.jpg
+├── CV/
+│ └── Lincolin Abraham.pdf
 ├── README.md
 
 
@@ -53,7 +54,7 @@ Whether it's front-end design, backend logic, or securing applications, I love l
 
 ## CV
 
-[Download My CV](.CV/Lincolin Abraham.pdf)
+[Download Lincolin Abraham.pdf](./CV/Lincolin%20Abraham.pdf)
 
 
 ## Contact Me
