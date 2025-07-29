@@ -60,6 +60,6 @@ Whether it's front-end design, backend logic, or securing applications, I love l
 
 You can reach me via the contact form on the site or through the following platforms:
 
-- [lincolin@example.com](mailto:wanderalincolin29@gmail.com)
+- [wandearalincolin29@gmail.com](mailto:wanderalincolin29@gmail.com)
 - [Twitter](https://twitter.com/barely_lee)
 - [Instagram](https://www.instagram.com/barely_lee)
