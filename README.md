@@ -1,1 +1,65 @@
-# my_portfolio
+# Lincolin Abraham's Portfolio Website
+
+Welcome to my personal portfolio! This project showcases my journey and skills as a developer and passion for cybersecurity. Built using HTML and CSS only.
+
+
+
+##  Live Demo
+
+ [View the Live Site](https://yourusername.github.io/portfolio-website/)  
+
+
+
+##  Project Structure
+
+portfolio-website/
+├── index.html
+├── style.css
+├── images/
+│  └── profile.jpg
+├── cv/
+│ └── lincolin_cv.pdf
+├── README.md
+
+
+##  Features
+
+- Hero section with name, subtitle, and background
+- About Me with personal bio and photo
+-  Projects grid showing brief details and images
+-  Skills section with progress bars or styled badges
+-  Downloadable CV (PDF)
+-  Contact form using [FormSubmit](https://formsubmit.co/)
+-  Social media links 
+-  Fully responsive layout
+
+
+
+## About Me
+
+I'm **Lincolin Abraham Wandera**, a passionate full-stack developer and ethical hacking enthusiast. I enjoy building digital products that solve real problems and continuously exploring how systems work and how they can be made more secure.
+
+Whether it's front-end design, backend logic, or securing applications, I love learning and pushing myself to grow every day.
+
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- Markdown (for this README)
+- Git & GitHub for version control
+- FormSubmit for contact form functionality
+
+
+## CV
+
+[Download My CV](./cv/lincolin_cv.pdf)
+
+
+## Contact Me
+
+You can reach me via the contact form on the site or through the following platforms:
+
+- [lincolin@example.com](mailto:wanderalincolin29@gmail.com)
+- [Twitter](https://twitter.com/barely_lee)
+- [Instagram](https://www.instagram.com/barely_lee)
