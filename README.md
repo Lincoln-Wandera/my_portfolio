@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This project showcases my journey and skills a
 
 ##  Live Demo
 
- [View the Live Site](https://yourusername.github.io/portfolio-website/)  
+ [View the Live Site](https://lincolinportfolio.netlify.app/)
 
 
 
