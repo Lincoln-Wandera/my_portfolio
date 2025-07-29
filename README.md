@@ -53,7 +53,7 @@ Whether it's front-end design, backend logic, or securing applications, I love l
 
 ## CV
 
-[Download My CV](./cv/lincolin_cv.pdf)
+[Download My CV](CV/Lincolin Abraham.pdf)
 
 
 ## Contact Me
