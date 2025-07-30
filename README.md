@@ -64,4 +64,4 @@ You can reach me via the contact form on the site or through the following platf
 - [wandearalincolin29@gmail.com](mailto:wanderalincolin29@gmail.com)
 - [Twitter](https://twitter.com/barely_lee)
 - [Instagram](https://www.instagram.com/barely_lee)
--💬 WhatsApp: [wa.me/254102687479](https://wa.me/254102687479)
+- [WhatsApp][wa.me/254102687479](https://wa.me/254102687479)
